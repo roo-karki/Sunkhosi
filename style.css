@@ -1,0 +1,176 @@
+*{
+	margin: 0;
+	padding: 1px;
+	font-family: helvetica;
+}
+
+body{
+	margin: 0px;
+	text-decoration: none;
+
+}
+.mission{
+
+	margin-left: 120px;
+	color: red;
+	font-size: 30px;
+	margin-top: 0px;
+   
+}
+.navbar
+{
+	list-style-type: none;
+	overflow: hidden ;
+	margin-top: 0%;
+	float: right;
+	text-align: center;
+    margin-left: -100px;
+    width: 100%;
+    background: #ddddff;
+	
+}
+.navbar li a{
+	display: block;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+     padding: 14px 16px;
+
+}
+
+.navbar li a:hover{
+	
+	color: red;
+
+}
+
+.navbar li{
+	text-align: center;
+	text-decoration: none;
+	display: inline;
+     float: left;
+
+}
+
+.logo{
+	
+	padding-left: 0;
+	margin-top: -97px;
+	margin-left: 6px;
+	width: 110px;
+	float: left;
+}
+
+.flag{
+	float: right;
+	margin-top: -78px;
+	height: 70px;
+	width: 60px;
+	
+}
+.rafting{
+	width: 100%;
+}
+.usefull{
+padding-top: 2px;
+	width: 33.1%;
+	list-style: none;
+    color: white;
+    background-color: black;
+    margin-bottom: -90px;
+}
+.office{
+	margin-top: -161px;
+	width: 66.1%;
+	float: right;
+	padding-left: 140px;
+	list-style: none;
+
+}
+.contact{
+
+	width: 33%;
+	margin-top: -260px;
+	margin-left: 1500px;
+	float: right;
+	list-style: none;
+	
+}
+.nav
+{
+	background-color: black;
+	/*width: 100%;*/
+}
+.nav li a:hover{
+	
+	color: red;
+
+}
+.nav li a{
+	color: white;
+	background-color:black;
+	list-style: none;
+	display: block;
+	text-decoration: none;
+
+}
+table{
+  
+	width: 50%;
+	margin-left:5px;
+
+}
+.Top
+{
+
+	border: 3px;
+	float: right;
+	color: white;
+	position: relative;
+	z-index: 0;
+
+}
+.news{
+	
+	background-color: #ddddff;
+
+}
+.news1{
+	width: 50%;
+
+
+}
+.news2{
+	width: 50%;
+	float: right;
+    margin-top: -187px;
+   
+}
+.welcome
+{
+	border: -50px solid;
+	background-color: black;
+	color: white;
+	/*margin-top: -35px;*/
+	text-align: center;
+  
+
+}
+table.new{
+	
+	/*background: #ddddff;*/
+	margin-left: 875px;
+	width: 30%;
+}
+.beautiful{
+	float: left;
+	width: 69%;
+		
+}
+.visit{
+	float: left;
+	margin-left: 500px;
+	margin-top:-120px;
+	width:250px;
+	height:130px;
+}
